@@ -16,4 +16,4 @@ setTimeout(() => {
   console.log("Timeout3");
 });
 
-console.log("Hello");
+console.log("Namaste");
